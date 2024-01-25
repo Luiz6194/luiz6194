@@ -1,6 +1,6 @@
 - Hi there Im Luiz Gonzalez
-- I am interested in web design more specifically front end and backend
-- I am working towards a bachelores degree in Computer engineering at San Diego Stat Univeristy
+- I am interested in web design more specifically frontend and backend
+- I am working towards a bachelor's degree in Computer engineering at San Diego State Univeristy
 
 <!--
 **Luiz6194/luiz6194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
