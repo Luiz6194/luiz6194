@@ -1,5 +1,5 @@
 - Hi there Im Luiz Gonzalez
-- I am interested in web design more specifically frontend and backend
+- I am interested in anything related to technology
 - I am working towards a bachelor's degree in Computer engineering at San Diego State Univeristy
 
 <!--
